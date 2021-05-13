@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**BjoernLudwigPTB/BjoernLudwigPTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about (research) software development, Python, math, mountaineering, climbing, slacklining, skateboarding, capitalism, privacy, gender, custom build mechanical keyboards
+- 📫 How to reach me: bjoern.ludwig@ptb.de
 
-Here are some ideas to get you started:
+## Stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub status
+
+<p align="center">
+  <img alt="BjoernLudwigPTB's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=BjoernLudwigPTB&show_icons=true&theme=onedark"/>
+</p>
+
+### Profile trophy
+
+<p align="center">
+  <img alt="BjoernLudwigPTB's GitHub profile trophy" src="https://github-profile-trophy.vercel.app/?username=BjoernLudwigPTB&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A"/>
+</p>
+
+### Most used languages
+
+<p align="center">
+  <img alt="BjoernLudwigPTB's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BjoernLudwigPTB&layout=compact&theme=onedark"/>
+</p>
