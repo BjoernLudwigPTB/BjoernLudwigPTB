@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 💬 Ask me about (research) software development, Python, math, mountaineering, climbing, slacklining, skateboarding, capitalism, privacy, gender, custom build mechanical keyboards, vegetarianism, veganism, zero-waste
+- 💬 Ask me about (research) software development, Python, clean code, software design, DevOps, containerization, agile methodology, math, mountaineering, climbing, slacklining, skateboarding, socialism, privacy, gender, custom build mechanical keyboards, vegetarianism, veganism, zero-waste
 - 📫 How to reach me: bjoern.ludwig@ptb.de
 
 ## Stats 📊
